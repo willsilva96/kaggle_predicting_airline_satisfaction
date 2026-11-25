@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+sdist/
+parts/
+*/.eggs/
+.installed-picks/
+*/egg-info/
+*.egg-info/
+.manifest*
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv-env/
+env-virtual-env/
+
+# IDE and Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*.lnk
+Desktop.ini
+
+# Jupyter notebooks outputs
+*.ipynb_checkpoints
+*.log
+*.out
+*tmp/
+__pycache__/
+*.db
+*.sqlite
+*.sql
+*/logs/
+
+# Model data and weights
+*.model
+*.weights
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Kaggle outputs (if any)
+*.pkl
+*.joblib
